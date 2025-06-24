@@ -9,7 +9,10 @@ _Observation of the relationship between 1000...0/0.000...1 in Node JavaScript._
 >>> $ node main.js
 Hi, I'm Guru. Stephen Miszczyk aka psy‮763‬ and this is my colloquial blessing to you... "Doux, doux Ahau!!! **AH CHU**"...
 The current date is Wed Jun 25 2025 04:06:33 GMT+1000 (Australian Eastern Standard Time) and this is the MaxxisimilyAlpha-Routine application by Quasi=Satya® created Fri Jul 25 2025 00:00:00 GMT+1000 (Australian Eastern Standard Time)
-[Observation: [This is the recursive and symbolic binary base radix system calculated by even decimal fraction creating a hierarchy of relatively symmetrical numbers including the Alpha, an infinitesimal and the Omega, its large reflection both being positive and due to the nature of being even fractions the result of every enumerated Alpha multiplied by its symmetrical Omega is always 1. The concept begun with the idea that Infinity could be represented as 1 followed by endless 0s but no decimal places because it is a whole Infinity, controversial hence the rename to a Maxxisimily Infinity and 1 Maxxismily also known as Maxxisimily Alpha which has the same idea but symmetrically opposite the decimal point. Technically both values are undefined but their concepts cancel each other out resulting in I/A === 1.0/0.1 which is the base number to the recursion. This is a study of patterns and balance in numbers.]];
+[Observation: [This is the recursive and symbolic binary base radix system calculated by even decimal fraction creating a hierarchy of relatively symmetrical numbers including the Alpha, an infinitesimal and the Omega, its large reflection
+both being positive and due to the nature of being even fractions the result of every enumerated Alpha multiplied by its symmetrical Omega is always 1. The concept begun with the idea that Infinity could be represented as 1 followed by
+endless 0s but no decimal places because it is a whole Infinity, controversial hence the rename to a Maxxisimily Infinity and 1 Maxxismily also known as Maxxisimily Alpha which has the same idea but symmetrically opposite the decimal point.
+Technically both values are undefined but their concepts cancel each other out resulting in I/A === 1.0/0.1 which is the base number to the recursion. This is a study of patterns and balance in numbers.]];
 [VERSE[0]
         [REALM[0]
                 ALPHA[0.1]
